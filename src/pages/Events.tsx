@@ -12,17 +12,17 @@ const Events = () => {
   const allUpcomingEvents = [
     {
       id: 1,
-      title: "To be updated",
+      title: "CASCADE 2025",
       // Updated date to be an array for a multi-day event, as per description
-      date: ["2025-07-24", "2025-07-25"],
-      time: "To be updated",
-      location: "To be updated",
-      description: `To be updated`,
-      image: "https://res.cloudinary.com/dk34keh8x/image/upload/v1752641820/create_a_realistic_i_aljote.png",
-      category: "To be updated",
-      seats: "To be updated",
+      date: ["2025-11-07", "2025-11-08"],
+      time: "9:00 AM - 5:00 PM",
+    location: "Presidency University, Bangalore",
+      description: `Analog vs Digital: Bridging the Gap with Innovative Solutions`,
+      image: "https://res.cloudinary.com/dk34keh8x/image/upload/v1761718373/CASSCADE_lrxjcq.png",
+      category: "",
+      seats: "Team of 1 or team of 2",
       featured: true, // This event is featured
-      registrationLink: ""
+      registrationLink: "https://docs.google.com/forms/d/1AeMozk9ifCVPIAF11HYx4pyiV8ac-mVShFUJ2ys7YqE/edit?pli=1"
     },
     {
       id: 2,

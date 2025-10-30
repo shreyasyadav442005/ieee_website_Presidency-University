@@ -397,68 +397,117 @@ const ieeeMembers = {
       }
     ]
   },
-  "2nd Year": [
-      {
-      name: "Ashwath",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101311280"
-    },
-    {
-      name: "K Sneha",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101619357"
-    },
-    {
-      name: "Manoj Kumar",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101620605"
-    },
-    {
-      name: "Nagabhushan",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101311356"
-    },
-    {
-      name: "Pankaj T N",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101619628"
-    },
-    {
-      name: "Sarika G",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101620639"
-    },
-    {
-      name: "Saiprasad",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101619570"
-    },
-    {
-      name: "S Harish",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101352664"
-    },
-    {
-      name: "Shyam K",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101128682"
-    },
-    {
-      name: "Vindu",
-      year: "2nd Year",
-      branch: "Electronics and Communication",
-      membershipId: "101645429"
-    }
-  ],
+ "2nd Year": [
+  {
+    name: "Aditya Deshpande",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101690949"
+  },
+  {
+    name: "Ashwath",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101311280"
+  },
+  {
+    name: "Eunice K",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101750254"
+  },
+  {
+    name: "Jhanavi",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101738074"
+  },
+  {
+    name: "K Sneha",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101619357"
+  },
+  {
+    name: "Kandyala Sravan Kumar",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101687316"
+  },
+  {
+    name: "Manoj Kumar",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101620605"
+  },
+  {
+    name: "Nagabhushan",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101311356"
+  },
+  {
+    name: "Pankaj T N",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101619628"
+  },
+  {
+    name: "S Harish",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101352664"
+  },
+  {
+    name: "Saiprasad",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101619570"
+  },
+  {
+    name: "Sanjana",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101782408"
+  },
+  {
+    name: "Santosh",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101721985"
+  },
+  {
+    name: "Sarika G",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101620639"
+  },
+  {
+    name: "Siddesh Ramchandra",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101690932"
+  },
+  {
+    name: "Sujan",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101656648"
+  },
+  {
+    name: "Thanushree B M",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101799748"
+  },
+  {
+    name: "Vindu",
+    year: "2nd Year",
+    branch: "Electronics and Communication",
+    membershipId: "101645429"
+  }
+],
+
 };
 
 

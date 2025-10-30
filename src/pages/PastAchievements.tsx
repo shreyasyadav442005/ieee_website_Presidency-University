@@ -19,9 +19,9 @@ const PastAchievements = () => {
        //team: [ "M Aishwarya", "Mohammed Zaid S", "Jayalakshmi Jhansi M N", "Shreyas Yadav M", "Ashwanth G", "Sai Prasad", "Nagabushan" ],
 
        photos:[
-   "https://res.cloudinary.com/dk34keh8x/image/upload/v1751719391/KANTI_Prasad_r2e6uj.jpg",
-   "https://res.cloudinary.com/dk34keh8x/image/upload/v1751917396/NITTE_1_u9ysda.jpg",
-   "https://res.cloudinary.com/dk34keh8x/image/upload/v1751917395/NITTE_2_ms8yzn.jpg"
+   "https://res.cloudinary.com/dk34keh8x/image/upload/v1761716480/IMG1_jlbf8q.jpg",
+   "https://res.cloudinary.com/dk34keh8x/image/upload/v1761716480/IMG2_ygs9v5.jpg",
+   "https://res.cloudinary.com/dk34keh8x/image/upload/v1761716480/IMG3_y2kajr.jpg"
 ]
 
      },
@@ -63,7 +63,7 @@ Their project, "Fault Analysis in Optimised Hash-Based Message Authentication fo
      },
      {
        id: 6,
-       title: " 'Smart Vehicle' Project Earns 4th Place in National Expo",
+       title: " Smart Vehicle Project Earns 4th Place in National Expo",
        description: `At the National Level IEEE Technical Symposium "TECHNOVATE-2K25," organized by the Department of Electronics and Communication Engineering at HKBK College of Engineering on April 16th & 17th, 2025, our team's project, "Smart Vehicle Impact and Call Handling System," secured an impressive 4th place among the top 10 entries. This achievement underscores our dedication to enhancing road and driver safety through innovative technological solutions.`,
        category: "Innovation",
        date: "2025-04-17",
